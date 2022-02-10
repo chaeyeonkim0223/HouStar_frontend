@@ -117,26 +117,3 @@
 > 김민정 [https://github.com/co323co] <br/>
 > 김채연 [https://github.com/chaeyeonkim0223] <br/>
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
